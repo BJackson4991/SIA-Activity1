@@ -7,6 +7,9 @@ This repository contains two data files:
 * wnbl_playerstats.csv 
 * wnbl_teamstates.csv
 
+
+## Individual Player Match Statistics
+
 **wnbl_playerstats.csv** contains *individual player* match statistics for the University of 
 Canberra Capitals players, as well as their opponents for every match they played during 
 the 2017 WNBL season. 
@@ -40,6 +43,8 @@ This dataset consists of the following variables:
 25. **TwoPpc** percentage of 2-point shots made out of total 2-point shots attempted
 
 
+## Team Match Statistics
+
 **wnbl_teamstats.csv** contains *team* match statistics for the University of Canberra
 Capitals, as well as their opponents. 
 
@@ -68,7 +73,6 @@ This dataset consists of the following variables:
 21. **TwoPA** number of 2-point shots attempted
 22. **TwoPM** number of 2-point shots made
 23. **TwoPpc** percentage of 2-point shots made out of total 2-point shots attempted
-
 24. **opp_Team** which indicates the opposition team
 25. **opp_HomeAway** which indicates if the opposition team was playing at home or away
 26. **opp_AST** number of assists made by the opposition 

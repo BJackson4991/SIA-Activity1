@@ -13,13 +13,13 @@ WNBL season.
 
 This dataset consists of the following variables:
 
-<Round> which indicates the round number 
-<Team> which indicates the team (UCCAPS) or their opponent
-<HomeAway> which indicates if the team was playing at home or away
-<No> the players shirt number
-<Player> the player's name
-<Mins> number of minutes played
-<AST> number of assists made
-<BLK> number of blocks made
+1. 'Round' which indicates the round number 
+2. 'Team' which indicates the team (UCCAPS) or their opponent
+3. 'HomeAway' which indicates if the team was playing at home or away
+4. 'No' the players shirt number
+5. 'Player' the player's name
+6. 'Mins' number of minutes played
+7. 'AST' number of assists made
+8. 'BLK' number of blocks made
 
 
